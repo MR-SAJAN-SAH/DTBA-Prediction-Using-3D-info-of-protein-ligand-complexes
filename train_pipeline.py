@@ -10,6 +10,7 @@ import argparse
 import time
 from copy import deepcopy
 import json
+import numpy
 
 import torch
 import torch.nn as nn
